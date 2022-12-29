@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "diksha-334309",
+  "private_key_id": "e79f0dcb308bcdb8364676fa98948df300b3d961",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnb6j3FspAGlMF\nwzhbpRiCjNcxPMmyvJ049QbzNsnpw5tA9d4XGjRFeC4NbbZVy8a6I35DrC8gIJYt\n7szGIg4VcV4ZwR+rl4B0bpbM/rQOK3t9cej1+2Jjs7WFXbGacynlnAeCg4VFooXi\nvhe+EF7Pg3Cxn8d6rgMVa8/Jm3M7qzSzJ+vniyGwcW5ZAe+Wh5hDdQoIhj7Un8OM\nlXFWFPJQKkrIc2xlELBJgc2ZxvzmLQ9h2iLx8t8zJ+sfR2Esjysn69jIxd5gCmYR\nImrC9jYIDX7n6JYsUdKRhwLPrqD8wi3kKtjsIURBRAnakkv741EN0lp6wA0X8K8b\nmTLcIklFAgMBAAECggEAAglSi691hho73G6qKA/bOzVAJcYTPu8FK4JBaM0HtNCP\nT2wzcgz8dJmDAotNI9XUD4NV1Q1fpQX4cEu+pldCMW0STlZiDqR2UxQy6yswNe7o\nntc3PzdPlEkFLL99uj7rKXLVyDbWH17GvuyocxmVtEjpN+PVWYQ1yeQoiroZs0X7\nUsFeiWByUsjOkKaq9QJ0FXYo8xCwIZCcoWI/yXZnKyl3AnfoCwEmWDQVr/gNyruq\nBxmmx3N+Lx7423M/dwrRq4bCEVzcEwF914GmROijeF0jsmW0JU5TXD2G7Ld8v9fe\nTyJI93ujofZFQtQtmwu4m3tCC96IWOs8QGn5G8IziQKBgQDhcROCH6N+QzEjnCf/\nFGpqTSc6vj/J3R9lNwvQxFYH/QMSBxJZoigA1vR6uLcdqvCUSHJXk9hDvijWNi5r\n7JYbOXEmySP+pXUSDKgPmnaeQDzHfSQJ50B0K36gZNf+ZcXBm1Ix/0AXOMTtewlI\nko+XghRL6u+BbBNN6v0/k+rNnQKBgQC+IcRZDfPHUt+Pj+SVbRRKYuNzTzWPJCxY\nqVkuwNfl1ZYGKmb8ClWVgat39QfrZbLNV1V5D7RTDMeiFxJLT5DGKljjeT7d0Xjt\nPlF6lmUwTydVNQ6eF3iErVC6jdIfciW5jVv6h/HCZhGSzMC7E3gumePyNE8f2pGO\nKM1ZlLdtyQKBgCgmk2rhZ6TdIqtM7HKpmCpGg24a5BF3qFfGbfxIe2oAzcMwLzx3\nfNhpcDFLJJHMF/zQykx+sE2gWHWOQMZH5JQErvpRaG+52BfW2TeuMuIMXsbIqtp4\nrSoDdRHr4+wTBB1vJDxzUV7RZYFGIGkkcR5ytFqxBObv8KA38dKY7YChAoGBAKOW\nI/zHT17JBAbeNDsInfOef7ofhaKB6hHiqxPZ4igii7EEXJUwQxCef6x3S3gSiTO5\nl5XQmEL4dO8WUKwxagvGNbKKCDgL2bKt8qa5rZhSEjJysv/8i7oD8LiB+y8JJEIw\nyNmWi8DJ1wbqWkzbZIUb7Q7gSM/MW33nxz7zAJtZAoGBAJudPvqR1bIgftV61kN/\nOtlGpFugAkUkKYG4lONd3Ota6YdNmYNBoN1vw//inntT1ZV+VMwlhxS4grx3jfU+\nb2A+NziOqRqTeX/6Qk6+pO/CKNfZW7FedEpQoKze25Ou9MWZMRm8sfB40AqhIp4m\nnjNxiz6tHZgvKyeZMYdmzOJ7\n-----END PRIVATE KEY-----\n",
+  "client_email": "diksha-testing@diksha-334309.iam.gserviceaccount.com",
+  "client_id": "105925462909911575725",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diksha-testing%40diksha-334309.iam.gserviceaccount.com"
+}
